@@ -1,4 +1,4 @@
 bonapp
 ======
 
-Application permettant de partager sur ce que l'on mange et les endroits sympa pour bien manger
+Application permettant de partager ce que l'on mange et les endroits sympa pour bien manger
